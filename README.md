@@ -1,5 +1,3 @@
-# WebScraping
-
 # Web Scraping Example
 
 This is a simple Python project that demonstrates how to scrape data from a web page using `requests` and `BeautifulSoup`.
